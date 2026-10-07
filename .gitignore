@@ -1,0 +1,7 @@
+# Flutter / Dart build output
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
