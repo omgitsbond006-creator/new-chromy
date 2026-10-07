@@ -1,0 +1,99 @@
+==============================================================
+GOOGLE PLAY STORE LISTING - ORBIQUO
+==============================================================
+
+APP NAME (max 30 characters)
+--------------------------------------------------------------
+Orbiquo
+
+
+SHORT DESCRIPTION (max 80 characters)
+--------------------------------------------------------------
+Hop between glowing rings, dodge neon arcs and chase your best score!
+
+
+FULL DESCRIPTION (max 4000 characters)
+--------------------------------------------------------------
+Welcome to Orbiquo, a fast, one-thumb neon arcade game where you are a glowing orb racing around three orbit rings.
+
+Your orb never stops moving. Tap the LEFT side of the screen to hop to the inner ring and the RIGHT side to hop to the outer ring. Read the track ahead, switch rings at the perfect moment and slip past the neon arcs that block your path. One touch ends your run, so stay sharp!
+
+The longer you survive, the faster your orbit spins. Every run is different, every second counts and "just one more try" is never far away.
+
+★ HOW TO PLAY
+• Tap left to hop inward, tap right to hop outward
+• Dodge the red arcs that block a ring
+• Watch out for orange arcs that flicker on and off - time your move to slip through
+• Collect green gems for bonus points
+• Survive as long as you can as the speed keeps rising
+
+★ POWER-UPS
+• Shield - absorbs one hit and smashes the arc you touch
+• Slow-Mo - slows down time for a few seconds
+• Magnet - pulls in gems from every ring
+
+★ FEATURES
+• Simple one-tap controls, deep skill-based gameplay
+• Fair, hand-tuned level generator - there is always a way through
+• Rising difficulty that rewards quick reflexes and smart planning
+• 8 glowing orb skins to unlock with the gems you collect
+• Score milestones, best score tracking and stats
+• Original synthwave soundtrack and punchy sound effects
+• Smooth, vibrant neon visuals with particles and glow effects
+• Haptic feedback (can be turned off)
+• Plays completely offline - no internet needed
+• No account, no sign-up, no personal data collected
+• Short runs that are perfect for a quick break
+
+Whether you have thirty seconds or thirty minutes, Orbiquo is the perfect pick-up-and-play arcade challenge. How long can you stay in orbit?
+
+Download Orbiquo now and start hopping!
+
+
+CATEGORY
+--------------------------------------------------------------
+Application type: Game
+Category: Arcade
+
+
+TAGS / KEYWORDS (for reference)
+--------------------------------------------------------------
+arcade, casual, one tap, neon, reflex, endless, orbit, offline game, high score, hyper casual
+
+
+CONTENT RATING GUIDANCE (IARC questionnaire)
+--------------------------------------------------------------
+• Violence: None (abstract shapes only)
+• Sexual content / language / drugs / gambling: None
+• User-generated content or chat: None
+• Ads: None
+• In-app purchases: None (gems are earned only by playing)
+• Expected rating: Everyone / PEGI 3
+
+
+DATA SAFETY FORM (suggested answers)
+--------------------------------------------------------------
+• Does your app collect or share any of the required user data types? NO
+• The app stores best score, gem count, unlocked skins and sound/music/vibration
+  settings locally on the device only. Nothing leaves the device.
+• No internet access, analytics, advertising or third-party tracking SDKs.
+• Users can erase all progress at any time from Settings > Reset Progress,
+  or by uninstalling the app.
+
+
+GRAPHIC ASSETS INCLUDED
+--------------------------------------------------------------
+• App icon (512 x 512):        assets/icon/icon.png
+• Feature graphic (1024 x 500): screenshots/feature_graphic_1024x500.png
+• Phone screenshots (1080 x 1920):
+    screenshots/screenshot_1.png  - Home screen
+    screenshots/screenshot_2.png  - Gameplay
+    screenshots/screenshot_3.png  - Power-ups
+    screenshots/screenshot_4.png  - Skins
+    screenshots/screenshot_5.png  - New best score
+
+
+PRIVACY POLICY
+--------------------------------------------------------------
+Host privacy_policy.html on any public web page (for example GitHub Pages or
+Google Sites) and paste that URL into Play Console > App content > Privacy policy.
